@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+}
+
+.div-cols{
+    padding:30px !important;
+}
+
+form div:last-child{
+    text-align:center;
+}
+
+table th:first-child{
+    width:10%;
+}
+
+.hide{
+    display: none !important;
+}
+.color{
+    background-color: #9ed0fc;
+}
+/* .color:hover{
+    background-color: #489ee7;
+} */
+
+.mouse{
+    cursor: pointer;
+}
+.display{
+    display: block;
+}
+.bordercolor{
+    border-color: red;
+}
+.close {
+    cursor: default;
+}
+
+.textv {
+    cursor: pointer;
+}
+.cross {
+    text-decoration: line-through;
+}
